@@ -1,5 +1,5 @@
-# <p style="color:purple;">starbucks-home</p>
-* copy of starbucks home design,<br>
- * challenger completed,<br>
+# StarBucks-Home
+* Copy of starbucks home design,<br>
+ * Challenger completed,<br>
  * #frontend,<br>
  * #danki.code.
